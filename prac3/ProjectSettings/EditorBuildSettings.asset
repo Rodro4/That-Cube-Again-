@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: dc4a58d38e4c54f4bacde3ffd25dce4b
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 86d8103eb6a43d14cbacb00a3f0fe096
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: d2cef90a172f98e47bda06922fe88e11
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: aa64081aa7f7e7349a94c6929c8f7e49
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 0351a0893be3c6d439c6f99c86fb9766
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: 440d33197d4fe6e45a95801b699fc59d
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: 3f1a2e765df59754aac6124c1388aaa8
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 1a609da56e183564eaea705b161f7371
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: 5e062872e9e008b409983760f4f8adba
+  - enabled: 1
+    path: Assets/Scenes/Level10.unity
+    guid: 1cb0c664e6fd1034d865fa1483c0ecf0
+  - enabled: 1
+    path: Assets/Scenes/Level11.unity
+    guid: dd60c11bf1e5f0a4d802d7da16316f38
+  - enabled: 1
+    path: Assets/Scenes/LevelSelector.unity
+    guid: 0229387cb911954469d38ae13edd0c7c
+  - enabled: 1
+    path: Assets/Scenes/Settings.unity
+    guid: f5d8161fb083c9043a2981dd114b902d
+  - enabled: 1
+    path: Assets/TestScenes/TestMainMenu.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/TestScenes/BateryStatus.unity
+    guid: 5eecf53162c3109488c328fd6aaf5c86
+  - enabled: 1
+    path: Assets/TestScenes/AirplaneMode.unity
+    guid: 148b75b8528a7f84aa3cb4174ff9ed12
+  - enabled: 1
+    path: Assets/TestScenes/Gyroscope.unity
+    guid: 99dfe649c7884704489a39ab839f36c0
+  - enabled: 1
+    path: Assets/TestScenes/DetectDecibels.unity
+    guid: 042b4fd5ad344e44b92bed1773560358
+  - enabled: 1
+    path: Assets/TestScenes/AmbientLight.unity
+    guid: cb96cc5646b12e5418730297049141ec
+  - enabled: 1
+    path: Assets/TestScenes/Bluetooth.unity
+    guid: 8609d61912ca39d498949c576f2a0fdb
+  - enabled: 1
+    path: Assets/TestScenes/Accelerometer.unity
+    guid: fcb7965603a18ed43ac141c9e98e39ff
+  - enabled: 1
+    path: Assets/TestScenes/Flashlight.unity
+    guid: 325a40697ad945a49a2d1a7b5ef6b346
+  - enabled: 1
+    path: Assets/TestScenes/Vibration.unity
+    guid: bef7a407bd26f1e40a25a507df33ea84
+  - enabled: 1
+    path: Assets/TestScenes/TactileSensor.unity
+    guid: aa1daf62751a6534f9fcef25946f8bf2
+  - enabled: 1
+    path: Assets/TestScenes/VolumeButton.unity
+    guid: 4c8debff9cf867b4c92590871daaff4d
+  - enabled: 1
+    path: Assets/TestScenes/Proximity.unity
+    guid: 709a65a5fe059884d9ff892e42c6c309
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 94513ff437652764fa1bc0a2fdc5976e, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 602fa7067a452634da447e11f185dfa2, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: dfd0651fb336bd24daae297740d8c35a, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 80f0c8c76b079b545af12cc7269ca970, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 3e720d929ea3c914a89d6cfc6d21df42, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 858d46b0380a118418bd3c292d1a9720, type: 2}
+  m_UseUCBPForAssetBundles: 0
